@@ -16,60 +16,39 @@ Embed video demo di bawah ini (ganti `VIDEO_ID` dengan ID video YouTube Anda):
 
 ---
 
-*Konten selanjutnya hanya merupakan contoh awalan yang baik. Anda dapat berimprovisasi bila diperlukan.*
-
 ## 🛠 Panduan Instalasi & Menjalankan Software  
-
-### Prasyarat  
-- Daftar dependensi (contoh):
-  - Python 3.10+
-  - Node.js v18+
-  - MySQL 8.0
-  - [Lainnya...]
-
-### Langkah-langkah  
-1. **Clone Repository**  
+1. **Clone Repository**
    ```bash
-   git clone https://github.com/Informatics-ITS/TA.git
+   git clone https://github.com/Informatics-ITS/ta-shafanh.git
    ```
-2. **Instalasi Dependensi**
+2. **Jalankan Aplikasi**
    ```bash
-   cd [folder-proyek]
-   pip install -r requirements.txt  # Contoh untuk Python
-   npm install  # Contoh untuk Node.js
+   ./main
    ```
-3. **Konfigurasi**
-- Salin/rename file .env.example menjadi .env
-- Isi variabel lingkungan sesuai kebutuhan (database, API key, dll.)
-4. **Jalankan Aplikasi**
+3. Masukan input $n$ sebagai banyaknya testcase dan input $X1, Yi, Zi$
+   
+   Contoh:
    ```bash
-   python main.py  # Contoh untuk Python
-   npm start      # Contoh untuk Node.js
+   3
+   1 0 0
+   5 1 1
+   3 2 2
+   5
+   1 3 2
+   3 7 3
+   5 10 4
+   7 400 5
+   9 4 6
+   0
    ```
-5. Buka browser dan kunjungi: `http://localhost:3000` (sesuaikan dengan port proyek Anda)
+   
+4. Untuk mengetes kebenaran kode, kode dapat disubmit pada laman online judge [Beecrowd 1819 - Estimating Production](https://judge.beecrowd.com/en/problems/view/1819)
 
 ---
 
-## 📚 Dokumentasi Tambahan
-
-- [![Dokumentasi API]](docs/api.md)
-- [![Diagram Arsitektur]](docs/architecture.png)
-- [![Struktur Basis Data]](docs/database_schema.sql)
-
----
-
-## ✅ Validasi
-
-Pastikan proyek memenuhi kriteria berikut sebelum submit:
-- Source code dapat di-build/run tanpa error
-- Video demo jelas menampilkan fitur utama
-- README lengkap dan terupdate
-- Tidak ada data sensitif (password, API key) yang ter-expose
-
----
 
 ## ⁉️ Pertanyaan?
 
 Hubungi:
-- Penulis: [email@mahasiswa]
-- Pembimbing Utama: [email@pembimbing]
+- Penulis: [shafanabilah1005@gmail.com]
+- Pembimbing Utama: [irfan@if.its.ac.id]
