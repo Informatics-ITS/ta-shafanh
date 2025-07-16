@@ -1,10 +1,10 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: [Nama Lengkap]  
-**NRP**: [Nomor Registrasi Pokok]  
-**Judul TA**: [Judul Tugas Akhir]  
-**Dosen Pembimbing**: [Nama Dosen]  
-**Dosen Ko-pembimbing**: [Nama Dosen]
+**Nama Mahasiswa**: Shafa Nabilah Hanin  
+**NRP**: 5025211222  
+**Judul TA**: Desain dan Analisis Algoritma Komputasi Matriks pada Penyelesaian Regresi Multilinier: Studi Kasus Beecrowd 1819 - Estimating Production  
+**Dosen Pembimbing**: Ir. M.M. Irfan Subakti, S.Kom., M.Sc.Eng., M.Phil., IPM  
+**Dosen Ko-pembimbing**: Rully Soelaiman, S.Kom., M.Kom.
 
 ---
 
